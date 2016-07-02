@@ -1,1 +1,2 @@
 # MybaticAutoGenerate
+mybatis根据java程序逆向生成pojo类、mapper接口、mapper.xml配置文件
